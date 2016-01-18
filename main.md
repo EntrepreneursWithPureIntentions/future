@@ -48,21 +48,21 @@ Schau dir die beiden Brüder an! Ist es da nicht besser, man verdient ehrlich mi
 
 
 
-(Band 8.2 S 143)
+##### (Band 8.2 S 143)
 
-”Sie stand vom Bett auf und ging zum Fenster. Die Sonne schien und teilte das Fensterbrett in Licht und Schatten.
+> ”Sie stand vom Bett auf und ging zum Fenster. Die Sonne schien und teilte das Fensterbrett in Licht und Schatten.
 
-Sie markierte mit ihrem Finger die Grenze zwischen Licht und Schatten, zog von ihrem Handgelenk eine Schnur aus Leinen ab und legte diese auf die markierte Stelle. Die Wedrussen markierten immer den Tag und den Augenblick der Zeugung ihrer Kinder.
+> Sie markierte mit ihrem Finger die Grenze zwischen Licht und Schatten, zog von ihrem Handgelenk eine Schnur aus Leinen ab und legte diese auf die markierte Stelle. Die Wedrussen markierten immer den Tag und den Augenblick der Zeugung ihrer Kinder.
 
-Danach wurde am Platz der Trauung ein Baum gepflanzt, dessen Stamm eine möglichst gerade Form annehmen sollte. Gegenüber wurde ein zweiter Baum gesetzt, und zwar genau in dem Moment, als die Grenze zwischen Licht und Schatten auf dem Fensterbrett des Hauses mit der Leineinschnur übereinstimmte.
+> Danach wurde am Platz der Trauung ein Baum gepflanzt, dessen Stamm eine möglichst gerade Form annehmen sollte. Gegenüber wurde ein zweiter Baum gesetzt, und zwar genau in dem Moment, als die Grenze zwischen Licht und Schatten auf dem Fensterbrett des Hauses mit der Leineinschnur übereinstimmte.
 
-Der zweite Baum wurde im Schatten des ersten Baumstamms gepflanzt. Diese Handlung erlaubte den Wedrussen, sich immer wieder an den Augenblick der Zeugung ihres Kindes zu erinnern.
+> Der zweite Baum wurde im Schatten des ersten Baumstamms gepflanzt. Diese Handlung erlaubte den Wedrussen, sich immer wieder an den Augenblick der Zeugung ihres Kindes zu erinnern.
 
-Rechnet man von diesem genau markierten Augenblick fur die betreffende Person das Horoskop aus, so bekommt man genauere Aussagen. Obwohl die Wedrussen die Stellung der Planeten und ihre Wirkung auf die Menschen kannten, besaßen sie selbst genug großartige Energie, um, entgegen der Planetenwirkung, erfolgreich ihre eigenen Handlungen zu vollbringen.
+> Rechnet man von diesem genau markierten Augenblick fur die betreffende Person das Horoskop aus, so bekommt man genauere Aussagen. Obwohl die Wedrussen die Stellung der Planeten und ihre Wirkung auf die Menschen kannten, besaßen sie selbst genug großartige Energie, um, entgegen der Planetenwirkung, erfolgreich ihre eigenen Handlungen zu vollbringen.
 
-Zwischen die beiden Bäume wurde später das Fruchtwasser ausgegossen. Außerdem wurde dort der Mutterkuchen in die Erde eingegraben. Als der Mensch erwachsen wurde, legte er sich am Tage seiner Zeugung an dieser Stelle schlafen. Die Lage der Planeten veränderte sich geringfügig von Jahr zu Jahr. So konnte die betreffende Person in ihrem Schlaf die ganze Nacht lang Informationen aus dem Universum aufnehmen. Diese Wahrnehmung fand nicht auf der Ebene des Verstandes statt, sondern eher im Unterbewusstsein, auf der Ebene der Gefühle. Die Erkenntnisse dieser Nacht gingen bis zum Begreifen der kompletten Schöpfung Gottes auf Erden. Und wenn irgendwelche Leiden oder die Traurigkeit den Menschen plagten, dann lösten sie sich an dieser Stelle in seinem Schlaf auf. Allerdings gelang es verschiedenen Leiden nur äußerst selten, den Körper der Wedrussen zu erreichen.
+> Zwischen die beiden Bäume wurde später das Fruchtwasser ausgegossen. Außerdem wurde dort der Mutterkuchen in die Erde eingegraben. Als der Mensch erwachsen wurde, legte er sich am Tage seiner Zeugung an dieser Stelle schlafen. Die Lage der Planeten veränderte sich geringfügig von Jahr zu Jahr. So konnte die betreffende Person in ihrem Schlaf die ganze Nacht lang Informationen aus dem Universum aufnehmen. Diese Wahrnehmung fand nicht auf der Ebene des Verstandes statt, sondern eher im Unterbewusstsein, auf der Ebene der Gefühle. Die Erkenntnisse dieser Nacht gingen bis zum Begreifen der kompletten Schöpfung Gottes auf Erden. Und wenn irgendwelche Leiden oder die Traurigkeit den Menschen plagten, dann lösten sie sich an dieser Stelle in seinem Schlaf auf. Allerdings gelang es verschiedenen Leiden nur äußerst selten, den Körper der Wedrussen zu erreichen.
 
-So diente ihnen der Platz ihrer Zeugung nicht nur zum Schlafen, sondern auch zur Erfassung der Weisheit des Weltalls.”
+> So diente ihnen der Platz ihrer Zeugung nicht nur zum Schlafen, sondern auch zur Erfassung der Weisheit des Weltalls.”
 
 , da wirst du einen starken informationsfluss spühren und gute Ruhe und Inspiration finden….. Wenn du willst kannst du ja auch dort schlafen!
 
@@ -408,7 +408,7 @@ und dann sind sie dort, und finden jetzt kaum mehr hoffnung. und *Alvin* wird ge
 
 
 
-und dann geht’s *Klara* immer schlechter, und das geld aus ihrem erbe, und das des erbes *Ivan*s was er ihr schenkte geht langsam alle.
+und dann geht’s *Klara* immer schlechter, und das geld aus ihrem erbe, und das des erbes *Ivans* was er ihr schenkte geht langsam alle.
 
 
 
@@ -424,19 +424,13 @@ und dann, dann geht sie nochmal in ein luxushotell mit nachher bezahlung, macht 
 
 nun:
 
-sie feiern drei tage
-
-am dritten will sie vom hotelldach springen
-
-in der nacht vom zweiten und dritten träumt sie vom landsitz
-
-sie liest in der früh wo sie mit extremen kopfschmerzen (nach         drogen?) aufwacht in der zeitung, wo über zwei obdachlose berichtet wird, die begnadigte musiker geworden sind, und die straßenkonzerte liefern (ist grad uni ferien) wo gut mehrere tausende zuschauer hinkommen
-
-die musiker haben sehr hinreißende texte.
-
-die gäste kommen->
-
-sie berauscht sich wieder
+* sie feiern drei tage
+* am dritten will sie vom hotelldach springen
+* in der nacht vom zweiten und dritten träumt sie vom landsitz
+* sie liest in der früh wo sie mit extremen kopfschmerzen (nach         drogen?) aufwacht in der zeitung, wo über zwei obdachlose berichtet wird, die begnadigte musiker geworden sind, und die straßenkonzerte liefern (ist grad uni ferien) wo gut mehrere tausende zuschauer hinkommen
+* die musiker haben sehr hinreißende texte.
+* die gäste kommen->
+* sie berauscht sich wieder
 
 *Alvin* & *Ivan* haben vom ganzen zeug windbekommen und sagen konzert ab
 
