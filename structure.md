@@ -1,7 +1,14 @@
 | Progress nr. | Erklärung   |
 |--------------|-------------| 
-| 0            | "Es wird die Szene geben"
-| 1            | Die Handlung ist bekannt
+| 0            | "Es wird die Szene geben"|
+| 1            | Die Handlung ist bekannt |
+| 2            | Die Szene ist erträumt   |
+| 3            | Die Szene ist geschrieben, hat aber noch viele zu füllenden lücken |
+| 4            | Wie drei, nur mit etwas weniger lücken |
+| -            | Noch zu definieren |
+
+----------------------------------------------
+
 
 | Abschnitt|   Progress  | Action | Kommentar|
 |----------|-------------| --------|------------|
