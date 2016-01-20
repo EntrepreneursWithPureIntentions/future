@@ -21,7 +21,9 @@
 | 5        | 1 | Alvin "muss gehen" / Der Abschied, geschenke mitbekommen, etc | Die nächste Szene die ich schreiben will (anm. v. Daniel)
 | 6        | 4 | Alvin "geht in die Stadt", bildlich schon geschrieben. Soll bei bauernfamilie an stadtrand gegen arbeit unterkommen | seine beziehung zu der bauernfamilie ist erträumt (von Daniel) aber noch nicht niedergeschrieben
 
-### There's just really really basic structure from here on
+-------------------------------------------------------------
+### There's just really really basic structure from here on / feel free to __DO__!
+-------------------------------------------------------------
 
 
 Nun will sie lieber nicht erschossen werden, sagt zu allem ja und amen, enttäuscht ihren bruder - sagt ihm wie schlecht er ist und wie sie ihn hasst und die wohnung nicht braucht: dabei bricht sie aber in tränen aus (-> bruder versteht das was los ist und glaubt ihr nicht das sie von sich aus so handelt -> verzeicht ihr -> kommt selber sehr in unglaubliche schwierigkeiten und verzweiflung -> hat trotzdem immer noch hoffnung)
