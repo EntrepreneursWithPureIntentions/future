@@ -83,3 +83,13 @@ HA! Mein Bruder versucht sich also an mich ranzumachen! Wenn ich das der ganzen 
 Geht. Lehnt sich draußen an einen Laternenpfahl und weint. Touching music. Von innen gefilmt: *Alvin* sieht sie. greift nach einem fernglas was am fensterbrett liegt, und schaut zu *Klara*. Sieht ihr weinendes Gesicht. Lässt das fernglas sinken.
 
 Von außen: er hält sich die hände vors gesicht und weint
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------
+
+Bruder hat ihr extra diese wohnung besorgt, die sehr schön und erreichbar ist, aber eben auch billig. Die Immobilienhaiin will an die wohnung ran - oder sie tötet die Frau - da sie ihre eigene wohnung ausbauen will. Der bruder tut extra nicht studieren - die zwei kinder sind waisen - sondern gibt sein teil des erbes für’s studium von *Klara* aus, und arbeitet zusätzlich beim bäcker um ihr diese wohnung zu finanzieren.
+
+----------------------------------------------------------------------------------------------------------------------------
