@@ -5,6 +5,7 @@
 | 2            | Die Szene ist erträumt   |
 | 3            | Die Szene ist geschrieben, hat aber noch viele zu füllenden lücken |
 | 4            | Wie drei, nur mit etwas weniger lücken |
+| 5            | Lückenlos |
 | -            | Noch zu definieren |
 
 ----------------------------------------------
