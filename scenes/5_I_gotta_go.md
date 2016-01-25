@@ -44,4 +44,10 @@ Davon inspiriert. Alvin ist einer von den Heustap-oder-sichlern*
 
 *Langsammer Fade...*
 
-*Die Sonne geht auf, Alvin kommt aus dem Lehmhaus seiner Eltern und geht nachdenklich durch den Garten. Er kommt an einem Himbeerstrauch vorbei und pflückt sich eine Himbeere in den Mund, ohne überhaupt daran zu denken. Eine Katze/ein Hund kommt ihm entgegen, er freut sich und strichelt ihr/ihm ein-zwei mal und lässt sie dann weitergehen. Er kommt wieder zu den beiden Bäumen, die Sonne geht gerade unter, er nimmt anlauf und klettert auf den einen der beiden Bäume hoch die für ihm gepflantzt wurden. Die kamera steigt auf, und man sieht den runden dunkelroten sonnenball. er klettert ganz hoch, bleibt eine zeit lang oben und denkt nach. irgendwann seuftzt er und schlägt die augen zu.*
+---------------------------
+
+*Hier ist Alvin ein Tag einer "Vedischen Schule" und Unterrichtet und gibt vorträge. (__TODO__, noch auszuarbeiten!)*
+
+---------------------------
+
+*Die Sonne geht auf, Alvin kommt aus dem Lehmhaus seiner Eltern und geht nachdenklich durch den Garten. Er kommt an einem Himbeerstrauch vorbei und pflückt sich eine Himbeere in den Mund, ohne überhaupt daran zu denken. Eine Ziege kommt ihm entgegen, er freut sich und streichelt ihr ein-zwei mal und lässt sie dann weitergehen. Er kommt wieder zu den beiden Bäumen, die Sonne geht gerade unter, er nimmt anlauf und klettert auf den einen der beiden Bäume hoch die für ihm gepflantzt wurden. Die kamera steigt auf, und man sieht den runden dunkelroten sonnenball. er klettert ganz hoch, bleibt eine zeit lang oben und denkt nach. irgendwann seuftzt er und schlägt die augen zu. der "wind" der musik nimmt einen mit, wie eine wolke duftenden blütenpollen und es weht einen in richtung stadt, wo gerade z.b. eine klausur geschrieben wird. eine person (klara?) tut sich gerade an einer aufgabe schwer. das bild fadet langsamm wieder zum alten schnitt (Alvin auf baum) zurück, "es läuft ihm kalt über den rücken runter"*
