@@ -4,51 +4,50 @@ Im Folgenden: Mensch = *Klara*
 
 
 
-Zeitraffer, duma, parlament, usw, manche stellen ruhig & gerede hörbar, "zeitungsstapel" von mitteilungen über verschiedene "verbesserungsversuche", kongresstreffe und normalen balast
+Zeitraffer: Duma, Parlament, usw, manche Stellen ruhig & Gerede hörbar, "zeitungsstapel" von mitteilungen über verschiedene "Verbesserungsversuche", Kongresstreffen und normalen Balast
 
-Sprecher: Es schien das die Menschen alles taten um etwas zu verändern, um einer Katastrophe zu entgehen, um etwas zu verbessern
-
-plastik einsammel kampange, greenpeace, etc
+Sprecher: Es schien, dass die Menschen alles taten, um etwas zu verändern, um einer Katastrophe zu entgehen, um etwas zu verbessern
+Plastik einsammeln Kampange, Greenpeace, etc.
 
 …. doch es geschah nichts.
 
-Denn es waren nicht die gesetzestexte die geändert werden mussten, sondern nur ein wandel der Lebensweiße konnte etwas bewirken.
+Denn es waren nicht die Gesetzestexte die geändert werden mussten, sondern nur ein Wandel der Lebensweise konnte etwas bewirken.
 
 - Black -
 
-Großstadt, nacht, zeitraffer, himmelskörperbewegungen zu sehen (HDR[?]), autos und menschen eilen / wimmeln umher
+Großstadt, Nacht, Zeitraffer, Himmelskörperbewegungen zu sehen (HDR[?]), Autos und Menschen eilen / wimmeln umher
 
-Dunkelheit (fadein). Zeitraffer von sonnenaufgang über stadt. Ein schlafzimmer in einer Wohnung. Man sieht durch irgendein "Guckloch" (z.B Fenster) die sonnenstrahlen, auftauchen, sieht den wecker / die uhr wie wild weitergehen, der wecker klingelt, nach wiederholten klingen haut der mensch auf den wecker (snooze) ohne die augen aufzumachen, sinkt wieder zusammen.
+Dunkelheit (fadein). Zeitraffer von Sonnenaufgang über stadt. Ein Schlafzimmer in einer Wohnung. Man sieht durch irgendein "Guckloch" (z.B Fenster) die Sonnenstrahlen auftauchen, sieht den Wecker / die Uhr wie wild weitergehen, der Wecker klingelt, nach wiederholtem Klingeln haut der Mensch auf den Wecker (snooze) ohne die Augen aufzumachen, sinkt wieder zusammen.
 
-// Möglichkeit: Die "Sicht" mit mehreren solchen schlafzimmern auszufüllen, immer bisschen anders aber doch gleich.
+// Möglichkeit: Die "Sicht" mit mehreren solcher Schlafzimmern auszufüllen, immer bisschen anders, aber doch gleich.
 
-Zweites weckerklingeln. Mensch schlägt die augen auf und schaltet den wecker aus. Setzt sich stönend, die augen reibend auf.
+Zweites Weckerklingeln. Mensch schlägt die Augen auf und schaltet den Wecker aus. Setzt sich stönend, die Augen reibend, auf.
 
-M: Aufregende / gehetzte musik durch ganzen alltag, ganze szene sollte < 3min sein.
+M: Aufregende / gehetzte Musik durch ganzen Alltag, ganze Szene sollte < 3min sein.
 
-Eine darstellung des eiligen und gehetzten alltags. Eventuell darstellen wie sich alles tag für tag, jahr für jahr, mensch für mensch, wiederhohlt [?].
-
-
-
-Mensch geht aus dem bett, zieht sich an (oder ist plötzlich angezogen), kocht kaffee, isst frühstück, etc, nimmt seine umgebung kaum wahr (handy, fernseher, zeitung, etc nehmen die gesamte aufmerksammkeit), macht "morgenritual" fertig, verlangsammung, schaut auf die uhr
-
-Mensch: Scheiße, jetzt ist's schon wieder so spät. (Verdammt, )Hoffentlich verpass' ich nicht den Bus(/Zug whatever)
+Eine Darstellung des eiligen und gehetzten Alltags. Eventuell darstellen, wie sich alles Tag für Tag, Jahr für Jahr, Mensch für Mensch wiederhohlt [?].
 
 
 
-Beschleunigung, rennt hinaus und zur bushaltestelle, schafft es gerade noch das verkehrsmittel zu erreichen, im verkehrsmittel sitzt er wieder am handy, man sieht wie die umgebung (durch die fenster [?]) weiterziehen.
+Mensch steht aus dem Bett auf, zieht sich an (oder ist plötzlich angezogen), kocht Kaffee, isst frühstück, etc, nimmt seine Umgebung kaum wahr (Handy, Fernseher, Zeitung, etc. nehmen die gesamte Aufmerksammkeit), macht "Morgenritual" fertig, Verlangsammung, schaut auf die Uhr.
 
-[Von außen] Bus stoppt, Mensch steigt aus, geht zur arbeit Uni. Hat dort wenig umgang mit kollegen und sitzt hauptsächlich am computer. Wird dort die ganze zeit von jungs umzingelt, will aber hauptsächliche mal etwas allein sein, sich sammeln und seine ruhe haben. Ganzer Unitag arbeitstag dargestellt aber wahnsinnig beschleunigt. Im blickfeld sollte es einen ausblick geben wo man vieles vorbeiziehen sieht (ampel, kreuzung, straße, etc),
-
-nach arbeitstag kommt Mensch erschöpft nachhause, setzt sich vor den fernseher und isst unterwegsgekauftes fastfood. Macht andministrative aufgaben. Währen dem ganzen alltag sollten die himmelskörper oder ähnliches ab - und zu dargestellt werden. Geht voller sorgen viel zu spät ins bett.
-
-// Alltag wiederholt sich, irgendwie demonstrieren wie es in verschiedenen städten gleich ist? (Moskau, Berlin, Stockholm, New York, etc)
+Mensch: Scheiße, jetzt ist's schon wieder so spät. (Verdammt, ) Hoffentlich verpass' ich nicht den Bus(/Zug)
 
 
 
+Beschleunigung, rennt hinaus und zur Haltestelle, schafft es gerade noch das Verkehrsmittel zu erreichen, im Verkehrsmittel sitzt er wieder am Handy. Man sieht, wie die Umgebung (durch die fenster [?]) weiterzieht.
+
+[Von außen] Verkehrsmittel stoppt, Mensch steigt aus, geht zur Arbeit/ Uni. Hat dort wenig Umgang mit Kollegen und sitzt hauptsächlich am Computer. Wird dort die ganze Zeit von Jungs umzingelt, will aber hauptsächliche mal etwas allein sein, sich sammeln und seine ruhe haben. Ganzer Unitag / Arbeitstag dargestellt, aber wahnsinnig beschleunigt. Im Blickfeld sollte es einen Ausblick geben, wo man vieles vorbeiziehen sieht (Ampel, Kreuzung, Straße, etc).
+
+Nach dem Arbeitstag kommt Mensch erschöpft nach Hause, setzt sich vor den Fernseher und isst unterwegsgekauftes Fastfood. Macht administrative Aufgaben. Währen dem ganzen Alltag sollten die himmelskörper oder ähnliches ab und zu dargestellt werden. Geht voller Sorgen viel zu spät ins Bett.
+
+// Alltag wiederholt sich, irgendwie demonstrieren wie es in verschiedenen Städten gleich ist? (Moskau, Berlin, Stockholm, New York, etc)
 
 
-Eine Diese schöne junge Frau sitzt, die Hände in Handschellen, auf einem still in einen schallisolierten Zimmer. Vor ihr steht eine Frau mit einer Waffe in der Hand.
+
+
+
+Eine diese schöne junge Frau sitzt, die Hände in Handschellen, auf einem still in einen schallisolierten Zimmer. Vor ihr steht eine Frau mit einer Waffe in der Hand.
 
 Frau mit waffe (geschrien): ENTWEDER, DU ZIEHST AUS DIESER VERFLUCHTEN WOHNUNG DEINES BRUDERS AUS, ODER DU LANDEST, ETWAS VON BLEI BESCHWEHRT AUF DER STRAßE, IN EINEM VIERTEL IN DEM SCHON DIE GEIER AUF DICH WARTEN! Hinterhältig/Spöttisch/Voller Hohn Das willt die kleine süße Dame doch nicht, oder? So wie du auf deine Figur achtest….
 
