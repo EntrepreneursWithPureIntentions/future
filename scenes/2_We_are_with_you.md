@@ -6,29 +6,29 @@ ____TODO____:Hier träumt *Alvin* klarer von einer Frau, die er mit dem Licht id
 
 
 
-Er wacht auf (ist noch mitten in der Nacht, Mond, Sterne, usw haben sich weitergedreht), irgendetwas schmerzt ihm
+Er wacht auf (ist noch mitten in der Nacht, Mond, Sterne, usw haben sich weitergedreht), irgendetwas schmerzt ihn.
 
 
 
-*Alvin* (Verschlafen, zu sich selbst): was war das den für ein komischer Traum! reibt sich die Augen und durstig hat er mich gemacht.... steht auf und geht (immer noch im Vollmondlicht) nach hinten in den Wald, wo ein klarer Bach läuft und trinkt daraus. Die Wellen funkeln im Mondlicht.
+*Alvin* (Verschlafen, zu sich selbst): Was war das den für ein komischer Traum! Reibt sich die Augen und durstig hat er mich gemacht.... steht auf und geht (immer noch im Vollmondlicht) nach hinten in den Wald, wo ein klarer Bach läuft und trinkt daraus. Die Wellen funkeln im Mondlicht.
 
-*Alvin*: Ahh, das tut gut! Das Wasser ist wirklich ein Quell reiner Lebenskraft! Herrlich! Schlendert durch den Familienlandsitz und beobachtet den wunderschönen Garten im mondlicht (A7s+50mm f0.95 braucht man da hehehe)
+*Alvin*: Ahh, das tut gut! Das Wasser ist wirklich ein Quell reiner Lebenskraft! Herrlich! Schlendert durch den Familienlandsitz und beobachtet den wunderschönen Garten im Mondlicht (A7s+50mm f0.95 braucht man da hehehe)
 
-*Alvin* (zu sich selbst): wie schön der allmächtige *Vater* doch den großen Erdengarten gestaltet hat! Und wie gut meine Eltern sein Werk weiter vollenden haben können!
+*Alvin* (zu sich selbst): Wie schön der allmächtige *Vater* doch den großen Erdengarten gestaltet hat! Und wie gut meine Eltern sein Werk weiter vollenden haben konnten!
 
 Pause, macht sich auf den Rückweg zu den beiden Bäumen
 
 (leise) ja, so göttlich vollkommen ist das Ganze!
 
-Legt sich wieder zwischen die zwei Bäume und schläft fast sofort wieder ein
+Legt sich wieder zwischen die zwei Bäume und schläft fast sofort wieder ein.
 
 
 
 (Auf) Musik! (achten)!!
 
-Von vorne aus der Luft aufgenommen, ½ bildbreite: man sieht *Alvin* auf einem Schotterweg langlaufen.
+Von vorne aus der Luft aufgenommen, ½ Bildbreite: man sieht *Alvin* auf einem Schotterweg langlaufen. (*Alvin* träumt:)
 
-Auf der noch leeren Bildhälfte fadet *Klara* ein, auf einem schwarzen Weg langlaufend. Beide in schönem “Vedischen” gewand. (man sieht die klare luft?). Die Drohnenbilder gehen nach oben, und zu einander, die beiden Kameras schwenken, sodass beide lodrecht nach unten zeigen, und die beiden Bilder werden eins. Und man sieht, dass die beiden Wege eine Abbiegung machen, der eine nach links und der andere nach rechts, und als ein breiter, an den Seiten von Blumen geschmückter weiser Weg weiterlaufen.
+Auf der noch leeren Bildhälfte fadet *Klara* ein, auf einem schwarzen Weg langlaufend. Beide in schönem “vedischen” Gewand. (man sieht die klare Luft?). Die Drohnenbilder gehen nach oben, und zu einander, die beiden Kameras schwenken, sodass beide lodrecht nach unten zeigen, und die beiden Bilder werden eins. Und man sieht, dass die beiden Wege eine Abbiegung machen, der eine nach links und der andere nach rechts, und als ein breiter, an den Seiten von Blumen geschmückter weiser Weg weiterlaufen.
 
 
 
@@ -44,7 +44,7 @@ Am zukünftigen Landsitzort (unten weiter beschrieben):
 
 
 
-*Alvin* (zu *Klara*), in ganz handelsüblichen Klamotten: Mit der O Göttin, möchte ich an diesem Ort einen ewigen Raum der Liebe erschaffen
+*Alvin* (zu *Klara*), in ganz handelsüblichen Klamotten: Mit dir O Göttin, möchte ich an diesem Ort einen ewigen Raum der Liebe erschaffen.
 
 *Klara* (schüchtern, aber überzeugt): Und ich bin bereit, mein Liebster, dir bei dieser großartigen Schöpfung mitzuhelfen.
 
@@ -62,7 +62,7 @@ Die Trauung:
 
 
 
-Dann sieht man Gäste herbeiströmen, und sieht die ganze trauung in zeitraffer (mit ‘ner ronin-m und ‘ner schicken drohne (richtung inspire 1) gefilmt hehe), bis auf die Stellen wo was gesprochen oder gesungen wird.
+Dann sieht man Gäste herbeiströmen, und sieht die ganze Trauung im Zeitraffer (mit ‘ner ronin-m und ‘ner schicken drohne (richtung inspire 1) gefilmt hehe), bis auf die Stellen wo was gesprochen oder gesungen wird.
 
 
 
@@ -72,7 +72,7 @@ __TODO__::: Trauung im Buch durchgehen und hier detaillierter schreiben
 
 
 
-Einlage: bei dem Kranzaufsetzen (natürlich alles schon wieder in viel schöneren gewändern), soll irgendwie (habe tausend ideen aber keine überzeugt mich, wir werden die beste finden) dargestellt werden wie *Alvin* in *Klara* sein Kind (oder neben ihr) sieht, sein künftigen Familienlandsitz, sowie seine frau wenn sie 90 ist :) (siehe leserkonferenz in helsinki)
+Einlage: bei dem Kranzaufsetzen (natürlich alles schon wieder in viel schöneren Gewändern), soll irgendwie (habe tausend ideen aber keine überzeugt mich, wir werden die beste finden) dargestellt werden, wie *Alvin* in *Klara* sein Kind (oder neben ihr) sieht, sein künftigen Familienlandsitz, sowie seine Frau wenn sie 90 ist :) (siehe leserkonferenz in helsinki)
 
 
 
@@ -80,7 +80,7 @@ Die Gäste gehen, (wieder ZR), es wird wieder nacht. *Alvin* und *Klara* zünden
 
 
 
-*Klara* (trockener Ton, erweckt Gefühl von leere, aber keiner einödigen, sondern geschützer Leere): So schade das wir uns nun wieder trennen müssen.
+*Klara* (trockener Ton, erweckt Gefühl von Leere, aber keiner einödigen, sondern geschützer (beschützenden?) Leere): So schade, dass wir uns nun wieder trennen müssen.
 
 *Alvin* (bedrückt): Und das für so lange zeit…..
 
@@ -94,6 +94,6 @@ Die Gäste gehen, (wieder ZR), es wird wieder nacht. *Alvin* und *Klara* zünden
 
 
 
-Man sieht *Alvin*s licht nur noch wie durch einem Tunnel, immer schwächer werdend, dann irgendwann ist es dunkel. Man sieht kurz einfaden die schlafende *Klara*, dann wieder aut.
+Man sieht *Alvin*s Licht nur noch wie durch einem Tunnel, immer schwächer werdend, dann irgendwann ist es dunkel. Man sieht kurz einfaden die schlafende *Klara*, dann wieder aut (out?).
 
 
