@@ -150,10 +150,7 @@ Die entführer waren *Ivan* & *Alvin*.
 
 
 
-sie haben mitlerweile genug geld, *Ivan* hat schnell ein Auto gemietet (bevor sie zur party sind) und sie fahren die fast-leiche auf *Alvin*’s, vor seiner abfahrt errichteten landsitz, wo er sie in den, sehr zugewachsenen, aber, nach den gedanken seines schöpfers weitergewachsenen, garten legt und versorgt und hofft und hofft und hofft das sie aufwacht.
-
-(auf dem landsitz fehlt noch der ahnenbaum)
-
+sie haben mitlerweile genug geld, *Ivan* hat schnell ein Auto gemietet (bevor sie zur party sind) und sie fahren die fast-leiche auf den Landsitz von *Alvin*’s Eltern, wo er sie in den Garten zwischen die beiden Bäume legt und versorgt und hofft und hofft und hofft das sie aufwacht.
 
 
 Dann wird’s gewittrig und alle verziehen sich in ihre häuser, *Ivan* & *Alva* treffen sich und verlieben sich so wie auf dem ersten blick.
@@ -183,3 +180,23 @@ Und viele leute haben das glück dann doch noch einen siedlungsbewohner persönh
 
 
 Und in der Siedlung von *Klara*, *Alvin*, *Ivan* und *Alva* wurde ein großes Amphiteather gebaut, wo eine million besucher reinpassen, mit einer genial entwickelten aukustig, wo schon genannte besiedler (und viele andere) ihre internationalen Konzerte abhalten!
+
+---------------------------------------
+
+*Alvin wacht auf. Die Sonne scheint, es ist alles heiter, aber Alvin ist trotzdem traurig.*
+
+*Klara wacht langsam auch auf, blinzelt und ist verduzt.*
+
+*Klara*: Wow, schön ist es hier.... Ist ja 'n voll geiler Garten.
+
+*Alvin (reicht ihr ein glas wasser)*: Ja.... *Pause*
+
+*Klara (leise, zu sich)*: Hä wieso bin ich eigentlich nicht tot? Oder bin ich's ? A(ch), egal....
+
+*Alvin (mit gesenktem Haupte)*: verzeih' mir bitte das ich dich entführt habe... Ich habe leider kein auto mehr hier aber ich werde dir den Weg in die Stadt zeigen. Komm mitt!
+
+*Alvin geht leise durch die Siedlung hinaus, gefolgt von der unsicheren und schläfrigen Klara. Sie kommen zu einem Waldrand und gehen leise den schönen Waldweg lang. Schlieslich kommen sie zurück zur Anhöhe über den Weinfeldern.*
+
+*Alvin*: Dies ist der kürzeste Weg. Nun musst du nur noch zwischen den Feldern lang laufen, dann bist du schon am Stadtrand. Dort findest du dich dann (eh) leicht zurecht. Also gehe nun den Weg den du gewählt hast. Ich gehe den meinen. *Dreht sich um und geht ein paar Schritte, dreht sich zurück, unterdrückt sichtlich die Tränen* Ich würde mich aber sehr freuen wenn du umkehren würdest und wir unsere Träume verwirklichen würden. *Dreht sich wieder umund schluchtzt, dreht sich zurück* Auf wiedersehen. *Geht schluchtzend zurück gegen den Wald.*
+
+*Klara steht oben auf der Anhöhe und guckt hinunter über die Stadt, wo gerade die Sonne untergeht. Der Wind bläßt ihr ins Haar. Die Drohne fliegt wieder um sie herum, black.*
