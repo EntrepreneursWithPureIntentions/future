@@ -1,5 +1,5 @@
 | Progress nr. | Erklärung   |
-|--------------|-------------| 
+|--------------|-------------|
 | 0            | "Es wird die Szene geben"|
 | 1            | Die Handlung ist bekannt |
 | 2            | Die Szene ist erträumt   |
@@ -136,20 +136,11 @@ nun:
 * die musiker haben sehr hinreißende texte.
 * die gäste kommen->
 * sie berauscht sich wieder
-
-*Alvin* & *Ivan* haben vom ganzen zeug windbekommen und sagen konzert ab
-
-*Klara* will vom dach springen, besoffene menge applaudiert, und stimmt zu und so, finden’s halt geil
-
-kippt kurz bevor’s bergab geht zusammen (auf irgendein fremden balkong?)
-
-security kommt
-
-komischerweiße ist sie dann weg
-
-drehkosten?
-
-
+* *Alvin* & *Ivan* haben vom ganzen zeug windbekommen und sagen konzert ab
+* *Klara* will vom dach springen, besoffene menge applaudiert, und stimmt zu und so, finden’s halt geil
+* kippt kurz bevor’s bergab geht zusammen (auf irgendein fremden balkong?)
+* "security" kommt
+* komischerweiße ist sie dann weg
 
 Die entführer waren *Ivan* & *Alvin*.
 
