@@ -15,18 +15,14 @@
 |----------|-------------| --------|------------|
 | 1        | 3| [Einführung Siedlung, erster Traum, gespräch mit Vater, gleichniß: Brüder](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/scenes/1_I_Had_a_dream.md) | Muss an späteres angepasst werden
 | 2        | 3| [Übernachtung zwischen den zwei "Zeugungsbäumen", zweiter und dritter Traum](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/scenes/2_We_are_with_you.md)| Wie oben, noch viele Lücken / viel TODO, fantasie und Siedlungserfahrung ebenso erbeten
-| 3        | 5| [Einführung Klara und Bruder, initiierung vom Wohnungsverlassen](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/scenes/3_get_out_of_that_flat-see_you.md) |
+| 3        | 5| [Einführung Klara und Bruder, initiierung vom Wohnungsverlassen](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/scenes/3_get_out_of_that_flat-see_you.md) | `Hat trotzdem immernoch hoffnung` 2 implement?
 | 4        | 1 | *Alvin* ist noch “zuhause”, in seiner Siedlung. Ein paar Tage kann man noch zeigen. Und dabei Familienlandsitze darstellen.| Sollte von guten Träumern / leuten mit Landsitzerfahrung erarbeitet werden, z.B. womit man sich beschäftigt
-| 5        | 1 | Alvin "muss gehen" / Der Abschied, geschenke mitbekommen, etc | Die nächste Szene die ich schreiben will (anm. v. Daniel)
+| 5        | 1 | [Alvin "muss gehen" / Der Abschied, geschenke mitbekommen, etc](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/scenes/5_I_gotta_go.md) | Die nächste Szene die ich schreiben will (anm. v. Daniel)
 | 6        | 4 | [Alvin "geht in die Stadt", bildlich schon geschrieben. Soll bei bauernfamilie an stadtrand gegen arbeit unterkommen](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/scenes/6_this_lays_before_me.md) | seine beziehung zu der bauernfamilie ist erträumt (von Daniel) aber noch nicht niedergeschrieben
 
 -------------------------------------------------------------
 ### There's just really really basic structure from here on / feel free to __DO__!
 -------------------------------------------------------------
-
-
-Nun will sie lieber nicht erschossen werden, sagt zu allem ja und amen, enttäuscht ihren bruder - sagt ihm wie schlecht er ist und wie sie ihn hasst und die wohnung nicht braucht: dabei bricht sie aber in tränen aus (-> bruder versteht das was los ist und glaubt ihr nicht das sie von sich aus so handelt -> verzeicht ihr -> kommt selber sehr in unglaubliche schwierigkeiten und verzweiflung -> hat trotzdem immer noch hoffnung)
-
 
 
 und die schwester die darf nichts sagen , und sie muss immer spielen und spielen, und sie wird immer mit neuen sachen gedroht - mit ihrem studienplatz, mit ihren freunden, mit ihren letzten hoffnungen/haftungen im leben. ihr herz wird von irgendsoein ausnutztypen verletzt.
