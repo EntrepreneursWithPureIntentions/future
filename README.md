@@ -4,7 +4,7 @@
 
 ##### Something that's about to come....
 
-[Plan.md](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/plan.md) is a good place to start. Feel free to colloborate!
+[Plan.md](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/plan.md) is a good place to start. Feel free to [colloborate](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/how2help.md)!
 
 ----------------------------------
 
