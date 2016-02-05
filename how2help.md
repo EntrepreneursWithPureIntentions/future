@@ -12,7 +12,7 @@ So:
 
 1. Go to the [issues page](https://github.com/EntrepreneursWithPureIntentions/future/issues) and click on something that sounds tempting
 2. Click on the link in the issue to jump to the place in the text where something needs change
-3. Remember where you wanted to make changes, scroll to the top and klick the ![pencil](http://vps.natur-kultur.eu/pen.svg) icon.
+3. Remember where you wanted to make changes, scroll to the top and klick the ![pencil](https://camo.githubusercontent.com/ce55c5347d1ce3381c32598481bd95571eb008e6/687474703a2f2f7670732e6e617475722d6b756c7475722e65752f70656e2e737667) icon.
 4. Make your edits
 5. Enter a description of your work in the first text field in the commit changes box
 6. Click on "Propose file change"
