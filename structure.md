@@ -18,7 +18,7 @@
 | 3        | 5| [Einführung Klara und Bruder, initiierung vom Wohnungsverlassen](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/scenes/3_get_out_of_that_flat-see_you.md) | `Hat trotzdem immernoch hoffnung` 2 implement?
 | 4        | 1 | *Alvin* ist noch “zuhause”, in seiner Siedlung. Ein paar Tage kann man noch zeigen. Und dabei Familienlandsitze darstellen.| Sollte von guten Träumern / leuten mit Landsitzerfahrung erarbeitet werden, z.B. womit man sich beschäftigt
 | 5        | 1 | [Alvin "muss gehen" / Der Abschied, geschenke mitbekommen, etc](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/scenes/5_I_gotta_go.md) | Die nächste Szene die ich schreiben will (anm. v. Daniel)
-| 6        | 4 | [Alvin "geht in die Stadt", bildlich schon geschrieben. Soll bei bauernfamilie an stadtrand gegen arbeit unterkommen](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/scenes/6_this_lays_before_me.md) | seine beziehung zu der bauernfamilie ist erträumt (von Daniel) aber noch nicht niedergeschrieben
+| 6        | 4 | [Alvin zieht in die Stadt. Soll bei bauernfamilie an stadtrand gegen arbeit unterkommen](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/scenes/6_this_lays_before_me.md)|
 
 -------------------------------------------------------------
 ### There's just really really basic structure from here on / feel free to __DO__!
