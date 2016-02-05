@@ -9,6 +9,7 @@ Let our phones beep by mentioning us with __[@DonJohnzen](https://github.com/Don
 Oh, eeh I should answer a question, right?
 
 So:
+
 1. Go to the [issues page](https://github.com/EntrepreneursWithPureIntentions/future/issues) and click on something that sounds tempting
 2. Click on the link in the issue to jump to the place in the text where something needs change
 3. Remember where you wanted to make changes, scroll to the top and klick the ![pencil](http://vps.natur-kultur.eu/pen.svg) icon.
