@@ -1,4 +1,6 @@
-___TODO___:Hier träumt *Alvin* klarer von einer Frau, die er mit dem Licht identifiziert, und seine Liebe zu ihr mit der Wärme. Die Frau ist sehr verzweifelt und will sich am Ende umbringen (= Licht verschwindet) und er will sie retten.<a name="SCD"></a>
+<a name="SCD"></a>
+
+___TODO___:Hier träumt *Alvin* klarer von einer Frau, die er mit dem Licht identifiziert, und seine Liebe zu ihr mit der Wärme. Die Frau ist sehr verzweifelt und will sich am Ende umbringen (= Licht verschwindet) und er will sie retten.
 
 
 
@@ -64,7 +66,7 @@ Dann sieht man Gäste herbeiströmen, und sieht die ganze Trauung im Zeitraffer 
 
 
 
-__TODO__::: Trauung im Buch durchgehen und hier detaillierter schreiben<a name="trauung"></a>
+<a name="trauung"></a>__TODO__::: Trauung im Buch durchgehen und hier detaillierter schreiben
 
 
 
