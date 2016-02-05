@@ -45,8 +45,8 @@ Davon inspiriert. Alvin ist einer von den Heustap-oder-sichlern*
 *Langsammer Fade...*
 
 ---------------------------
-
-*Hier ist Alvin ein Tag an einer "Vedischen Schule" und Unterrichtet und gibt vorträge. (__TODO__, noch auszuarbeiten!)*
+<a name="school"></a>
+*Hier ist Alvin ein Tag an einer "Vedischen Schule" und Unterrichtet und gibt vorträge. (__TODO__)*
 
 [Dieser Einblick](https://leetfil.es/paste/fe8b98b0) in das zukünftige "Schulleben" mag zur Inspiration verhelfen, falls jemand diesen wunderschönen Tag an einer zukünftigen Schule schreiben will, wo Alvin sich gut mit einbringt (oder erzählender ist, wer weiß?)
 
