@@ -17,3 +17,5 @@ So:
 5. Enter a description of your work in the first text field in the commit changes box
 6. Click on "Propose file change"
 7. Now we can discuss your changes and, if we're happy with them, merge them
+
+### Thank you ! :)
