@@ -50,7 +50,7 @@ Schau dir die beiden Brüder an! Ist es da nicht besser, man verdient ehrlich mi
 
 <a name="dbb"></a>*Vater*: Dann überlege dir doch gut, was dir damit gesagt geworden sein kann, ich muss nochmal …. öh … zu den Ziegen schauen… Du kannst dich doch ins Mondlich setzen und nachdenken. Setz dich doch zwischen die beiden Bäume, da wirst du einen starken Informationsfluss spühren und gute Ruhe und Inspiration finden… Wenn du willst, kannst du ja auch dort schlafen!
 
-(Siehe #7 wegen &uarr;)
+(Siehe [#7](https://github.com/EntrepreneursWithPureIntentions/future/issues/7) wegen &uarr;)
 
 *Alvin*: Danke *Vater* für den guten Rat, und ich wünsche dir von ganzem Herzen eine gute Nacht.
 
