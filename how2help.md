@@ -17,5 +17,6 @@ Also:
 5. Gebe eine kurze Beschreibung Deiner Arbeit in das erste Textfeld in der "Commit Changes" Box ein
 6. Klicke auf "Propose file change"
 7. Nun können wir Deine vorgeschlagenen Änderungen besprechen, und, wenn wir zufrieden mit ihnen sind, sie annehmen.
+8. Du musst auch nicht gleich etwas im Text ändern. Wenn du willst kannst du einfach in der Issue auch etwas antworten/vorschlagen bevor Du es ausarbeitest.
 
 ### Danke Dir ! :)
