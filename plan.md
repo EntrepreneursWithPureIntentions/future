@@ -1,13 +1,12 @@
-## How we'll do this
+## Wie wir dieses Projekt durchführen werden
 
-Basically:
+Im Grunde genommen:
 
-| Step | Implies                                                                                               |   Progress  |
+| Schritt | Impliziert                                                                                               |   Status  |
 |------|-------------------------------------------------------------------------------------------------------|-------------|
-| 1    | Write skeleton (basic story)                                                         | Done|
-| 2    | [Structure](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/structure.md) it into scenes| Started|
-| 3    | Imagine and write [the scenes](https://github.com/EntrepreneursWithPureIntentions/future/tree/master/scenes)| Ongoing       |
-| 4    | Introduce our Idea, reach filmmakers, reach actors, reach people                                      | __TODO__    |
-| 5    | See what's too difficult and what's to do better                                                       | __TODO__    |
-| 6    | Polish (for example adjust to locations and actors)                                                   | __TODO__    |
-| 7    | Grab the cam and go outside shooting                                                                  | __TODO__    |
+| 1    | Ein "Skelett" schreiben (sehr grundlegende Handlung)                                                         | [Fertig](https://docs.google.com/document/d/1LxThA3gEBjuQPpywhYwED-DonNiJgHefdMCAiWkybAg/edit)|
+| 2    | [Es in Szenen zu strukturieren](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/structure.md)| Begonnen/Geschehend|
+| 3    | Sich [die Szenen](https://github.com/EntrepreneursWithPureIntentions/future/tree/master/scenes) auszudenken| Geschehend |
+| 4    | Unsere Idee vorzustellen, Filmemacher zu erreichen, evt. Schauspieler zu erreichen, Menschen erreichen                                   | __Zu tun__    |
+| 5    | Das Manusskript anzupassen (an die Drehorte, an die Möglichkeiten, an die Schauspieler, etc)                                          | __Zu tun__    |
+| 6    | Die Kamera umhängen und hinaus gehen filmen                                                                  | __Zu tun__    |

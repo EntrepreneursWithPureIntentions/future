@@ -1,4 +1,4 @@
-| Progress nr. | Erklärung   |
+| "Fortschritt" nr. | Erklärung   |
 |--------------|-------------|
 | 0            | "Es wird die Szene geben"|
 | 1            | Die Handlung ist bekannt |
@@ -11,7 +11,7 @@
 ----------------------------------------------
 
 
-| Abschnitt|   Progress  | Action | Kommentar|
+| Abschnitt|   Fortschritt  | Action | Kommentar|
 |----------|-------------| --------|------------|
 | 1        | 3| [Einführung Siedlung, erster Traum, gespräch mit Vater, gleichniß: Brüder](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/scenes/1_I_Had_a_dream.md) | Muss an späteres angepasst werden
 | 2        | 3| [Übernachtung zwischen den zwei "Zeugungsbäumen", zweiter und dritter Traum](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/scenes/2_We_are_with_you.md)| Wie oben, noch viele Lücken / viel TODO, fantasie und Siedlungserfahrung ebenso erbeten
@@ -21,7 +21,7 @@
 | 6        | 4 | [Alvin zieht in die Stadt. Soll bei bauernfamilie an stadtrand gegen arbeit unterkommen](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/scenes/6_this_lays_before_me.md)|
 
 -------------------------------------------------------------
-### There's just really really basic structure from here on / feel free to __DO__!
+### Ab hier ist's nur noch "Quatsch" / fühle dich frei zu *TUN*
 -------------------------------------------------------------
 
 
