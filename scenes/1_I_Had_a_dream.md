@@ -20,51 +20,37 @@ Am Heimweg von einer Geburtstagsfeier von einer Person, die genau neun Monate ä
 
 *Vater*: An was denn, mein Sohn?
 
-*Alvin*: Alle anderen Menschen in meinem Alter die ich kenne, außer mir und *Alva*, die Leben schon ihr Leben, die haben schon eine Liebste oder einen Liebsten, und sind irgendwie innig verbund. Nur wir nicht. Wieso kommt die Liebe nicht zu uns, *Vater*? Macht sie eine Ausnahme?
+*Alvin*: Alle anderen Menschen in meinem Alter die ich kenne, außer mir und *Alva*, die Leben schon ihr Leben, die haben schon eine Liebste oder einen Liebsten, und sind irgendwie innig verbunden. Nur wir nicht. Wieso kommt die Liebe nicht zu uns, *Vater*? Macht sie eine Ausnahme?
 
-*Vater*: Nein, das glaube ich nicht. Längere Pause Wahrscheinlich musst du sie erst finden. Das ist manchmal so… Dafür wirst du aber umso glücklicher werden.
+*Vater*: Nein, das glaube ich nicht. *Längere Pause* Wahrscheinlich musst du sie erst finden. Das ist manchmal so… Dafür wirst du aber umso glücklicher werden.
 
 *Alvin*: Meinst du?
 
-*Vater*: Ja, das meine ich. Pause Weißt du, es gibt da eine Geschichte von zwei Brüdern, die in einer kleinen Stadt lebten. Ihre Eltern waren berüchtigte Räuber gewesen, und hatten ihren Söhnen nach ihrem Tod ihr ganzes Vermögen, gleichmäßig aufgeteilt, vererbt.
+*Vater*: Ja, das meine ich. *Pause* Weißt du, es gibt da eine Geschichte von zwei Brüdern, die in einer kleinen Stadt lebten. Ihre Eltern waren berüchtigte Räuber gewesen, und hatten ihren Söhnen nach ihrem Tod ihr ganzes Vermögen, gleichmäßig aufgeteilt, vererbt.
 
-Der eine Bruder, der nahm sein Teil des Erbes, Kaufte sich ein luxuriöses Haus mit vielen Bediensteten, einen guten Koch, lauter Schmuck und führte ständig große Feste zusammen mit anderen, die viel Geld hatten. Der andere Bruder aber, der gründete eine Organisation die den Armen und Verbrechern half wieder in die Gesellschaft hineinzukommen, vermachte ihr sein ganzes Vermögen, und fing bei einem begnadeten Baumeister als Lehrling an. Er lernte die Kunst des Hausbauens, und wurde im ganzen Dorf bekannt, wo fast jeder davon träumte, ein unikes Haus von ihm gebaut zu bekommen. Eines Tages aber, kam eine berüchtigte Räuberbande und ging zu einem Fest des verwöhnten Bruders. Sie nahmen ihm sein ganzes Vermögen weg, bestahlen die anderen Gäste und brannten sein Haus nieder. Dem anderen Bruder ließen sie auch nicht verschont und behandelten ihn ebenso. Nun saß der kürzlich reich gewesene Bruder auf der Straße und bettelte um seinen Lebensunterhalt. Der andere, der hatte aber keinen Grund zum betteln. Ihm mangelte es nicht an Aufträgen und die Menschen eiferten darum, ihn als Gast aufnehmen zu dürfen. Der eine Bruder also, der freiwillig alles gab, um es sich selbst wieder zu erarbeiten, dem konnte man versuchen alles zu nehmen, aber er war und blieb auf einer anderen Art reich. Der andere dagegen, der immer nur auf dem sitzen geblieben war, was ihm gegeben geworden war, den konnte man mühelos um alles berauben.
+Der eine Bruder, der nahm sein Teil des Erbes, Kaufte sich ein luxuriöses Haus mit vielen Bediensteten, einen guten Koch, lauter Schmuck und führte ständig große Feste zusammen mit anderen, die viel Geld hatten. Der andere Bruder aber, der gründete eine Organisation die den Armen und Verbrechern half wieder in die Gesellschaft hineinzukommen, vermachte ihr sein ganzes Vermögen, und fing bei einem begnadeten Baumeister als Lehrling an. Er lernte die Kunst des Hausbauens, und wurde im ganzen Dorf bekannt, wo fast jeder davon träumte, ein unikes Haus von ihm gebaut zu bekommen. Eines Tages aber, da kam eine berüchtigte Räuberbande und ging zu einem Fest des verwöhnten Bruders. Sie nahmen ihm sein ganzes Vermögen weg, bestahlen auch die anderen Gäste und brannten sein Haus nieder. Dem anderen Bruder ließen sie auch nicht verschont und behandelten ihn ebenso. Nun saß der kürzlich reich gewesene Bruder auf der Straße und bettelte um seinen Lebensunterhalt. Der andere, der hatte aber keinen Grund zum betteln. Ihm mangelte es nicht an Aufträgen und die Menschen eiferten darum, ihn als Gast aufnehmen zu dürfen. Der eine Bruder also, der freiwillig alles gab, um es sich selbst wieder zu erarbeiten, dem konnte man versuchen alles zu nehmen, aber er war und blieb auf einer anderen Art reich. Der andere dagegen, der immer nur auf dem sitzen geblieben war, was ihm gegeben geworden war, den konnte man mühelos um alles berauben.
 
 
 
-Schau dir die beiden Brüder an! Ist es da nicht besser, man verdient ehrlich mit der eigenen Hand und hat erst alles verloren, um dann alles wieder selbst aufbauen zu können, als dass man von anfang an alles hat und es einem dann genommen wird? Dann weiß man nicht mehr, wie man es erreichen kann.
+Schau dir die beiden Brüder an! Ist es da nicht besser, man verdient ehrlich mit der eigenen Hand und hat erst alles verloren, um dann alles wieder selbst aufbauen zu können, als dass man von anfang an alles hat und es einem dann genommen wird? Dann weiß man nähmlich nicht mehr, wie man es erreichen kann.
 
-*Alvin*: Nun ja, wieso meintest du, ich müsse mir die Liebe erst erarbeiten?
+(Daraus kann man fein herausbilden, was einst Vermögen (Vermöggen) bedeutete: "Im Stande sein zu tun".)
 
-*Vater*: Vielleicht musst du das, mein Sohn…. Vielleicht möchte dir dein Traum auch etwas mitteilen….
+(Danke an https://vk.com/wolfshut für &uarr;)
+
+*Alvin*: Und wieso meintest du jetzt, ich müsse mir die Liebe erst erarbeiten?
+
+*Vater*: Vielleicht musst du das, mein Sohn…. Vielleicht möchte dir dein Traum etwas mitteilen….
 
 *Alvin*: Ja, *Vater*. Ich hatte dabei so ein herrliches Gefühl der Liebe, trotz das alles so dunkel war. Und irgendwie hatte ich das Gefühl, das dieses Licht nicht ohne mich auskommen könnte, und ich nicht ohne es.
 
 *Vater*: Nagut, dann lass uns doch erst mal darüber schlafen, bestimmt träumst du ja auch deine Traum weiter?
 
-*Alvin*: Ja, bestimmt…. Pause Es war so schön…. Trotz, dass er so unangenehm war, und so schrecklich.
+*Alvin*: Ja, bestimmt… *Pause* Es war so schön… Trotz, dass er so unangenehm war, und so schrecklich.
 
-*Vater*: Dann überlege dir doch gut, was dir damit gesagt geworden sein kann, ich muss nochmal …. öh …. zu den Ziegen schauen…. Du kannst dich doch nochmal ins Mondlich setzen und nachdenken. Setz dich doch zwischen die zwei Bäume.
+<a name="dbb"></a>*Vater*: Dann überlege dir doch gut, was dir damit gesagt geworden sein kann, ich muss nochmal …. öh … zu den Ziegen schauen… Du kannst dich doch ins Mondlich setzen und nachdenken. Setz dich doch zwischen die beiden Bäume, da wirst du einen starken Informationsfluss spühren und gute Ruhe und Inspiration finden… Wenn du willst, kannst du ja auch dort schlafen!
 
-
-
-##### (Band 8.2 S 143)
-
-> ”Sie stand vom Bett auf und ging zum Fenster. Die Sonne schien und teilte das Fensterbrett in Licht und Schatten.
-
-> Sie markierte mit ihrem Finger die Grenze zwischen Licht und Schatten, zog von ihrem Handgelenk eine Schnur aus Leinen ab und legte diese auf die markierte Stelle. Die Wedrussen markierten immer den Tag und den Augenblick der Zeugung ihrer Kinder.
-
-> Danach wurde am Platz der Trauung ein Baum gepflanzt, dessen Stamm eine möglichst gerade Form annehmen sollte. Gegenüber wurde ein zweiter Baum gesetzt, und zwar genau in dem Moment, als die Grenze zwischen Licht und Schatten auf dem Fensterbrett des Hauses mit der Leineinschnur übereinstimmte.
-
-> Der zweite Baum wurde im Schatten des ersten Baumstamms gepflanzt. Diese Handlung erlaubte den Wedrussen, sich immer wieder an den Augenblick der Zeugung ihres Kindes zu erinnern.
-
-> Rechnet man von diesem genau markierten Augenblick fur die betreffende Person das Horoskop aus, so bekommt man genauere Aussagen. Obwohl die Wedrussen die Stellung der Planeten und ihre Wirkung auf die Menschen kannten, besaßen sie selbst genug großartige Energie, um, entgegen der Planetenwirkung, erfolgreich ihre eigenen Handlungen zu vollbringen.
-
-> Zwischen die beiden Bäume wurde später das Fruchtwasser ausgegossen. Außerdem wurde dort der Mutterkuchen in die Erde eingegraben. Als der Mensch erwachsen wurde, legte er sich am Tage seiner Zeugung an dieser Stelle schlafen. Die Lage der Planeten veränderte sich geringfügig von Jahr zu Jahr. So konnte die betreffende Person in ihrem Schlaf die ganze Nacht lang Informationen aus dem Universum aufnehmen. Diese Wahrnehmung fand nicht auf der Ebene des Verstandes statt, sondern eher im Unterbewusstsein, auf der Ebene der Gefühle. Die Erkenntnisse dieser Nacht gingen bis zum Begreifen der kompletten Schöpfung Gottes auf Erden. Und wenn irgendwelche Leiden oder die Traurigkeit den Menschen plagten, dann lösten sie sich an dieser Stelle in seinem Schlaf auf. Allerdings gelang es verschiedenen Leiden nur äußerst selten, den Körper der Wedrussen zu erreichen.
-
-> So diente ihnen der Platz ihrer Zeugung nicht nur zum Schlafen, sondern auch zur Erfassung der Weisheit des Weltalls.”
-
-, da wirst du einen starken Informationsfluss spühren und gute Ruhe und Inspiration finden…. Wenn du willst, kannst du ja auch dort schlafen!
+(Siehe #7 wegen &uarr;)
 
 *Alvin*: Danke *Vater* für den guten Rat, und ich wünsche dir von ganzem Herzen eine gute Nacht.
 
@@ -72,4 +58,4 @@ Schau dir die beiden Brüder an! Ist es da nicht besser, man verdient ehrlich mi
 
 *Alvin*: Geht gedankenversunken durch den mondbeschienenen Garten auf zwei Bäume (“Zedern”?) zu, und setzt sich an den einen Baum gelehnt hin.
 
-*Alvin* (Murmelnd, immer müder werdend): Hmmm, die Vereinigung der Gegensätze halten viele für etwas sehr Wichtiges, zu Erforschendes und zu Beachtendes…. Aber niemand weiß, was damit genau geimeint ist…. Dass es etwas großes und wichtiges ist, das fühle ich auch… Aber was heißt es genauer.. Und was hat Papa damit gemeint, ich müsse mir mein Glück erst erarbeiten… Desto gegensätzlicher, …. desto sch... hmmm Schlägt die Augenlieder zu und sinkt in eine halbwegs liegende Position. Man höhrt seinen regelmäßigen Atem, und das ruhige zirpen der Grillen. Die Kamera entfernt sich etwas, sodass die zwei Bäume vormatfüllend drauf sind, der Mond scheint als Gegenlicht in die Linse, die Kamera belichtet dunkler und man sieht nur noch die Silhouetten des an dem einen Baume halb lehnenden *Alvin*. Langsam tauchen die Sterne auf (oder sie waren vorher schon sichtbar), und man sieht wie sie sich (um den Polarstern) drehen. Die Grillen verstummen, fade
+*Alvin* (Murmelnd, immer müder werdend): Hmmm, die Vereinigung der Gegensätze halten viele für etwas sehr Wichtiges, zu Erforschendes und zu Beachtendes… Aber niemand weiß, was das genau auf sich hat… Dass es etwas großes und wichtiges ist, das fühle ich auch… Aber was heißt es genauer… Und was hat Papa damit gemeint, ich müsse mir mein Glück erst erarbeiten… Desto gegensätzlicher, … desto sch... hmmm *Schlägt die Augenlieder zu und sinkt in eine halbwegs liegende Position. Man höhrt seinen regelmäßigen Atem, und das ruhige zirpen der Grillen. Die Kamera entfernt sich etwas, sodass die zwei Bäume vormatfüllend drauf sind, der Mond scheint als Gegenlicht in die Linse, die Kamera belichtet dunkler und man sieht nur noch die Silhouetten des an dem einen Baume halb lehnenden *Alvin*. Langsam tauchen die Sterne auf (oder sie waren vorher schon sichtbar), und man sieht wie sie sich (um den Polarstern) drehen. Die Grillen verstummen, fade*
