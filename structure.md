@@ -13,10 +13,10 @@
 
 | Abschnitt|   Fortschritt  | Action | Kommentar|
 |----------|-------------| --------|------------|
-| 1        | 3| [Einführung Siedlung, erster Traum, gespräch mit Vater, gleichniß: Brüder](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/scenes/1_I_Had_a_dream.md) | Muss an späteres angepasst werden
-| 2        | 3| [Übernachtung zwischen den zwei "Zeugungsbäumen", zweiter und dritter Traum](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/scenes/2_We_are_with_you.md)| Wie oben, noch viele Lücken / viel TODO, fantasie und Siedlungserfahrung ebenso erbeten
-| 3        | 5| [Einführung Klara und Bruder, initiierung vom Wohnungsverlassen](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/scenes/3_get_out_of_that_flat-see_you.md) | `Hat trotzdem immernoch hoffnung` 2 implement?
-| 4        | 1 | *Alvin* ist noch “zuhause”, in seiner Siedlung. Ein paar Tage kann man noch zeigen. Und dabei Familienlandsitze darstellen.| Sollte von guten Träumern / leuten mit Landsitzerfahrung erarbeitet werden, z.B. womit man sich beschäftigt
+| 1        | 0| Das leben in einer Siedlung | Gerne von Siedlungsbewohnern zu formulieren
+| 2        | 3| [Erster Traum, gespräch mit Vater, gleichniß: Brüder](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/scenes/1_I_Had_a_dream.md) | Muss an späteres angepasst werden
+| 3        | 3| [Übernachtung zwischen den zwei "Zeugungsbäumen", zweiter und dritter Traum](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/scenes/2_We_are_with_you.md)| Wie oben, noch viele Lücken / viel TODO, fantasie und Siedlungserfahrung ebenso erbeten
+| 4        | 5| [Einführung Klara und Bruder, initiierung vom Wohnungsverlassen](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/scenes/3_get_out_of_that_flat-see_you.md) | `Hat trotzdem immernoch hoffnung` 2 implement?
 | 5        | 1 | [Alvin "muss gehen" / Der Abschied, geschenke mitbekommen, etc](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/scenes/5_I_gotta_go.md) | Die nächste Szene die ich schreiben will (anm. v. Daniel)
 | 6        | 4 | [Alvin zieht in die Stadt. Soll bei bauernfamilie an stadtrand gegen arbeit unterkommen](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/scenes/6_this_lays_before_me.md)|
 
