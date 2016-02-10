@@ -1,10 +1,8 @@
-<a name="SCD"></a>
-
-___TODO___:Hier träumt *Alvin* klarer von einer Frau, die er mit dem Licht identifiziert, und seine Liebe zu ihr mit der Wärme. Die Frau ist sehr verzweifelt und will sich am Ende umbringen (= Licht verschwindet) und er will sie retten.
+*Man sieht wieder das Licht. Es flackert leicht wie im Wind. Man hört ein Herz pochen und einen leisen Gesang. Alvin's gesicht überlagert sich leicht (ist über den schwarz leicht sichtbar) und mann sieht ihn lächeln. Dann verstummt der Gesang, nur noch das Herz pocht. Der Wind beginnt zu rauschen, evt musik (aber die kommt ja später).*
 
 
 
-Er wacht auf (ist noch mitten in der Nacht, Mond, Sterne, usw haben sich weitergedreht), irgendetwas schmerzt ihn.
+*Er wacht auf (ist noch mitten in der Nacht, Mond, Sterne, usw haben sich weitergedreht), irgendetwas schmerzt ihn.*
 
 
 
