@@ -27,7 +27,7 @@ Hey, und wenn du von der [Bild-Zeitung](https://de.wikipedia.org/wiki/Bild_(Zeit
 
 ##### Something that's about to come....
 
-[Plan.md](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/plan.md) is a good place to start. Feel free to [colloborate](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/how2help.md)!
+[Plan.md](https://github.com/EntrepreneursWithPureIntentions/future/blob/67b92395e2116df5f750fa0db6e8abf3c8643a8a/plan.md) is a good place to start. Feel free to [colloborate](https://github.com/EntrepreneursWithPureIntentions/future/blob/67b92395e2116df5f750fa0db6e8abf3c8643a8a/how2help.md)!
 
 ----------------------------------
 
