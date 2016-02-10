@@ -88,10 +88,8 @@ Die Gäste gehen, (wieder ZR), es wird wieder nacht. *Alvin* und *Klara* zünden
 
 
 
-…. Ich werde dich schon wiederfinden!
+… Ich werde dich schon wiederfinden!
 
 
 
 Man sieht *Alvin*s Licht nur noch wie durch einem Tunnel, immer schwächer werdend, dann irgendwann ist es dunkel. Man sieht kurz einfaden die schlafende *Klara*, dann wieder aut (out?).
-
-

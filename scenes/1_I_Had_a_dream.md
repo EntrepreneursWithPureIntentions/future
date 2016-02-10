@@ -8,6 +8,7 @@ Am Heimweg von einer Geburtstagsfeier von einer Person, die genau neun Monate ä
 
 *Vater*: Was hattest du denn für einen Traum?
 
+<a name="fd"></a>
 *Alvin*: Ich war wie in einer anderen Welt - ich kann mich nicht mehr so genau errinnern - es war dort ganz abscheulich, ganz kalt, alles voller Strukturen, Stahl und Beton. Es war ein riesenhohes Haus - oder, Haus ist nicht die richtige Bezeichnung - es war eine riesenhohe Schachtel, ein Betonklotz. Und es war alles so dunkel. So stumpf. Ich fühlte kein einziges Menschenherz. Und alles ging seinen gewohnten Gang - es war ein System, ein Monster. Es wiederholte sich einfach alles, immer wieder und immer wieder! Dann, dann war da ein Licht. Ganz ein helles Licht. Ich konnte es zwar deutlich wahrnehmen, und ich fühlte mich davon angezogen. Aber ich wusste nicht, wo es war. Ich wusste, dass ich es suchte, aber ich wusste nicht, wie ich es finden konnte. Und dieses Licht, das war wie ein kleines Kind, wie eine Hoffnung. Und ich wusste, dass es für mich alleine scheint, aber – es war so weit weg. Und das Licht wurde immer schwächer, und ich mit ihm. Und es drohte zu erlöschen. Ich spührte so eine verzweiflung von ihm ausgehen. Dann war es auf diesem Klotz und stürtzte hinunter, es schrie; aber niemand hörte den Schrei. Und alles ging einfach weiter. Jetzt war es ganz ganz schwach, nur noch die wärme, die es umhüllte, konnte ich spühren. Und ich wollte es unbedingt, unbedingt wieder zum leuchten bringen. Dann wachte ich auf.
 
 *Vater*: Was mag das wohl für ein Traum gewesen sein?
