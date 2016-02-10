@@ -15,10 +15,11 @@
 |----------|-------------| --------|------------|
 | 1        | 0| [Das leben in einer Siedlung](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/scenes/this-is-life_intro.md) | Gerne von Siedlungsbewohnern zu formulieren
 | 2        | 3| [Erster Traum, gespräch mit Vater, gleichniß: Brüder](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/scenes/I_Had_a_dream.md) | Muss an späteres angepasst werden
-| 3        | 3| [Übernachtung zwischen den zwei "Zeugungsbäumen", zweiter und dritter Traum](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/scenes/We_are_with_you.md)| Wie oben, noch viele Lücken / viel TODO, fantasie und Siedlungserfahrung ebenso erbeten
+| 4        | 3| [Übernachtung zwischen den zwei "Zeugungsbäumen", zweiter und dritter Traum](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/scenes/We_are_with_you.md)| Bis auf Trauung eigentlich vollständig.
 | 4        | 5| [Einführung Klara und Bruder, initiierung vom Wohnungsverlassen](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/scenes/get_out_of_that_flat-see_you.md) | `Hat trotzdem immernoch hoffnung` 2 implement?
-| 5        | 1 | [Alvin "muss gehen" / Der Abschied, geschenke mitbekommen, etc](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/scenes/I_gotta_go.md) | Die nächste Szene die ich schreiben will (anm. v. Daniel)
-| 6        | 4 | [Alvin zieht in die Stadt. Soll bei bauernfamilie an stadtrand gegen arbeit unterkommen](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/scenes/this_lays_before_me.md)|
+| 5        | 1 | [Alvin "muss gehen" / Der Abschied, geschenke mitbekommen, etc](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/scenes/I_gotta_go.md)
+| 6        | 0 | Noch was aus der stadt | Platzhalter
+| 7        | 0/5 | [Alvin's abschiedsfest und Reise](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/scenes/this_lays_before_me.md)|
 
 -------------------------------------------------------------
 ### Ab hier ist's nur noch "Quatsch" / fühle dich frei zu *TUN*

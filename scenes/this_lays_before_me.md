@@ -1,11 +1,3 @@
-
-(Basic message of scene 4 and / or 5)
-```
-"Ich muss gehen!”
-
-“Dann gehe.”
-```
-
 (Auf Color grading achten!!!! Ebenso auf Musik. https://www.youtube.com/watch?v=b333dB_cOvg ist ein gutes Beispiel für wie sich die Farben relativ zu den bei der szene zu erzeugenden gefühl verändern)
 
 
