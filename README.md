@@ -4,7 +4,7 @@
 
 ##### Etwas, was dabei ist zu kommen....
 
-[Plan.md](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/plan.md) ist ein guter Anfang zum lesen. [Wir würden uns sehr über deine konstruktive Mithilfe freuen](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/how2help.md)!
+Der [Plan](https://github.com/EntrepreneursWithPureIntentions/future/wiki/Plan) ist ein guter Anfang zum lesen. [Wir würden uns sehr über deine konstruktive Mithilfe freuen](https://github.com/EntrepreneursWithPureIntentions/future/wiki/Mithelfen)!
 
 ----------------------------------
 
