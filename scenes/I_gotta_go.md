@@ -52,10 +52,31 @@ Davon inspiriert. Alvin ist einer von den Heustap-oder-sichlern*
 
 ---------------------------
 
-*Die Sonne geht auf, Alvin kommt aus dem Lehmhaus seiner Eltern und geht nachdenklich durch den Garten. Er kommt an einem Himbeerstrauch vorbei und pflückt sich eine Himbeere in den Mund, ohne überhaupt daran zu denken. Eine Ziege kommt ihm entgegen, er freut sich und streichelt ihr ein-zwei mal und lässt sie dann weitergehen. Er kommt wieder zu den beiden Bäumen, die Sonne geht gerade unter, er nimmt anlauf und klettert auf den einen der beiden Bäume hoch die für ihm gepflantzt wurden. Die kamera steigt auf, und man sieht den runden dunkelroten sonnenball. er klettert ganz hoch, bleibt eine zeit lang oben und denkt nach. irgendwann seuftzt er und schlägt die augen zu. der "wind" der musik nimmt einen mit, wie eine wolke duftenden blütenpollen und es weht einen in richtung stadt, wo gerade z.b. eine klausur geschrieben wird. eine person (klara?) tut sich gerade an einer aufgabe schwer. das bild fadet langsamm wieder zum alten schnitt (Alvin auf baum) zurück, "es läuft ihm kalt über den rücken runter" ein Bild aus dem Traum das alles glücklich ausgehen wird kommt auf, er klettert runter. Sein Vater und seine Mutter die gerade einen "Gartenspaziergang" m achen, sehen ihn 'runterklettern.*
+*Die Sonne geht auf, Alvin kommt aus dem Lehmhaus seiner Eltern und geht nachdenklich durch den Garten. Er kommt an einem Himbeerstrauch vorbei und pflückt sich eine Himbeere in den Mund, ohne überhaupt daran zu denken. Eine Ziege kommt ihm entgegen, er freut sich und streichelt ihr ein-zwei mal und lässt sie dann weitergehen. Er kommt wieder zu den beiden Bäumen, die Sonne geht gerade unter, er nimmt anlauf und klettert auf den einen der beiden Bäume hoch die für ihm gepflantzt wurden. Die kamera steigt auf, und man sieht den runden dunkelroten sonnenball. er klettert ganz hoch, bleibt eine zeit lang oben und denkt nach. irgendwann seuftzt er und schlägt die augen zu. der "wind" der musik nimmt einen mit, wie eine wolke duftenden blütenpollen und es weht einen in richtung stadt, wo gerade z.b. eine klausur geschrieben wird. eine person (klara?) tut sich gerade an einer aufgabe schwer. das bild fadet langsamm wieder zum alten schnitt (Alvin auf baum) zurück, "es läuft ihm kalt über den rücken runter" ein Bild aus dem Traum das alles glücklich ausgehen wird kommt auf, er klettert runter. Sein Vater und seine Mutter die gerade einen "Gartenspaziergang" machen, sehen ihn 'runterklettern.*
 
 
 *Vater (lächelnd)*: Nun Alvin, ich denke du hast weitergeträumt?
+
 *Alvin*: Ja Elterchen, dass habe ich *geht gemeinsam mit den Eltern weiter* Und zwar muss ich fort.
+
 *Mutter*: Was? Wohin denn?
-*Alvin*: In die Stadt. Dort wartet meine liebste auf mich..... Ich habe von ihr geträumt.
+
+*Alvin*: In die Stadt. Dort wartet meine liebste auf mich..... Ich habe von ihr geträumt. Und von unserer Trauung. Stell dir vor, die Liebesbekundung war in solchen Kleidern wie man früher hatte! *Lacht*
+
+*Eltern schauen ernst drein*
+
+*Mutter*: Und wann willst du los ziehen?
+
+*Alvin*: So bald wie möglich. *Pause* Wieso?
+
+*Lange stille, gehen zusammen weiter*
+
+*Vater*: Na gut... Aber bring uns wenigstens was gutes mit. Oder jemanden.
+
+*Mutter*: Und versprich uns bitte das du zurückkommst!
+
+*Alvin*: Gut, das mache ich. Und, ich werde schon auch was mitbringen...
+
+*Vater*: Aber bleibe doch wenigstens noch eine Woche, dann könnten wir noch ein Abschiedsfest machen.. Und alle könnten die gute Wünsche mitgeben.
+
+*Alvin*: Ja, die habe ich sicher nötig, das ist eine gute Idee!
