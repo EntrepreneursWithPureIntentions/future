@@ -91,7 +91,7 @@
 Klara ist eine ganz normale, Schöne, Junge Frau, die in einer Großstadt, zusammen mit ihrem Bruder, aufgewachsen ist.
 Ihr Vater verstirbt an Krebs als sie 13 Jahre alt ist, ihre Mutter an dem Tag nach ihrem 18. Geburtstag.
 
-Als sie auf der Universität anfängt, taucht dort der Student Alvin auf, der, trotz dass alle auf der Uni mit seinen Leistungen übertrifft, von niemanden wirklich gemocht wird. Im Gegenteil, er wird immer stärker aus der Gemeinschaft ausgeschlossen. Vielleicht liegt es daran, dass er immer von irgendwelchen "Familienlandsitzsiedlungen" erzählt, meint diese würden alle Probleme der Welt lösen, und sagt er komme selbst aus einer.
+Als sie an der Universität anfängt, taucht dort der Student Alvin auf, der, trotz dass alle auf der Uni mit seinen Leistungen übertrifft, von niemanden wirklich gemocht wird. Im Gegenteil, er wird immer stärker aus der Gemeinschaft ausgeschlossen. Vielleicht liegt es daran, dass er immer von irgendwelchen "Familienlandsitzsiedlungen" erzählt, meint diese würden alle Probleme der Welt lösen, und sagt er komme selbst aus einer.
 
 Persöhnlich geht es für Klara total den Bach runter. Sie wird von einer Immobilienhaiin bedroht und muss ihre Wohnung verlassen, wesswegen sie zu ihrem Freund zieht.
 
@@ -109,7 +109,7 @@ Diverse Skandale kommen dazu, und schließlich beschließt Klara, sich selbst da
 
 Alvin ist inzwischen Obdachlos geworden, bleibt aber hartnäckig an der Uni, wo er stehts versucht mit Klara zu reden und ihr klarzumachen das er sie in ein besseres Leben führen könnte. Bekommt es jedoch nie wirklich hin.
 
-Nun ist Klara's Bruder, Ivan, auch obdachlos geworden. Er trifft Alvin, der ein begnadeter Musiker und Sänger ist. Sie werden in der Stadt mit der Zeit als "Straßenmusikanten" bekannt und beliebt und Alvin erzählt Ivan seine Geschichte.
+Nun ist Klara's Bruder, Ivan, genau wie Alvin, obdachlos geworden. Er trifft Alvin, der ein begnadeter Musiker und Sänger ist. Sie werden in der Stadt mit der Zeit als "Straßenmusikanten" bekannt und beliebt und Alvin erzählt Ivan seine Geschichte. Ivan ist der einzige, der ihm noch glaubt.
 
 Sie bekommen von Klaras Plan, sich umzubringen, Wind, und wollen sie retten und mit in Alvin's Siedlung nehmen.
 
