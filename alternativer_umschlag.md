@@ -89,7 +89,7 @@
 ----------------------------------------
 
 Klara ist eine ganz normale, Schöne, Junge Frau, die in einer Großstadt, zusammen mit ihrem Bruder, aufgewachsen ist.
-Ihr Vater verstirbt an Krebs als sie 13 Jahre alt ist, ihre Mutter an dem Tag nach ihrem Geburtstag.
+Ihr Vater verstirbt an Krebs als sie 13 Jahre alt ist, ihre Mutter an dem Tag nach ihrem 18. Geburtstag.
 
 Als sie auf der Universität anfängt, taucht dort der Student Alvin auf, der, trotz dass alle auf der Uni mit seinen Leistungen übertrifft, von niemanden wirklich gemocht wird. Im Gegenteil, er wird immer stärker aus der Gemeinschaft ausgeschlossen. Vielleicht liegt es daran, dass er immer von irgendwelchen "Familienlandsitzsiedlungen" erzählt, meint diese würden alle Probleme der Welt lösen, und sagt er komme selbst aus einer.
 
