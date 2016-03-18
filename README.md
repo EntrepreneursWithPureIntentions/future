@@ -2,7 +2,7 @@
 
 [![Komme zu  uns in den Chat https://gitter.im/EntrepreneursWithPureIntentions/future](https://badges.gitter.im/EntrepreneursWithPureIntentions/future.svg)](https://gitter.im/danieltroger/future?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-##### Etwas, was dabei ist zu kommen....
+##### Etwas, was auf seine Zeit wartet.
 
 Der [Plan](https://github.com/EntrepreneursWithPureIntentions/future/wiki/Plan) ist ein guter Anfang zum lesen. [Wir würden uns sehr über deine konstruktive Mithilfe freuen](https://github.com/EntrepreneursWithPureIntentions/future/wiki/Mithelfen)!
 
@@ -25,7 +25,7 @@ Hey, und wenn du von der [Bild-Zeitung](https://de.wikipedia.org/wiki/Bild_(Zeit
 
 [![Join the chat at https://gitter.im/EntrepreneursWithPureIntentions/future](https://badges.gitter.im/EntrepreneursWithPureIntentions/future.svg)](https://gitter.im/danieltroger/future?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-##### Something that's about to come....
+##### Something, that waits until time is ready.
 
 [Plan.md](https://github.com/EntrepreneursWithPureIntentions/future/blob/67b92395e2116df5f750fa0db6e8abf3c8643a8a/plan.md) is a good place to start. Feel free to [colloborate](https://github.com/EntrepreneursWithPureIntentions/future/blob/67b92395e2116df5f750fa0db6e8abf3c8643a8a/how2help.md)!
 
